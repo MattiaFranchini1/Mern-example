@@ -1,5 +1,5 @@
 //ignore modules
-ode_modules
+node_modules
 
 //ignore .env file (contain user and password)
 config.env
